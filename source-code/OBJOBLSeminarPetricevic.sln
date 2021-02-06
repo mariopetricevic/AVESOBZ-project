@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVESOBZ.PresentationLayer", "AVESOBZ.PresentationLayer\AVESOBZ.PresentationLayer.csproj", "{EF590767-0518-4696-BF63-037E0F6A3FD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVESOBZ.BaseLib", "AVESOBZ.BaseLib\AVESOBZ.BaseLib.csproj", "{2F372698-A9CD-441F-8BA2-BF81234B4B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVESOBZ.Controllers", "AVESOBZ.Controllers\AVESOBZ.Controllers.csproj", "{7D5E20C2-4535-49D6-8FB9-DDD496DB03DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVESOBZ.AppStarter", "AVESOBZ.AppStarter\AVESOBZ.AppStarter.csproj", "{E797B92B-38FC-406D-9E52-ABABDD970ECF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVESOBZ.MemoryBasedDAL", "AVESOBZ.MemoryBasedDAL\AVESOBZ.MemoryBasedDAL.csproj", "{21F61EF6-EDAA-4079-AF17-9E1D0D6B98AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVESOBZ.Model", "AVESOBZ.Model\AVESOBZ.Model.csproj", "{9B7D7D10-9CE8-4B66-A4B5-E997AD8AFC1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF590767-0518-4696-BF63-037E0F6A3FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF590767-0518-4696-BF63-037E0F6A3FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF590767-0518-4696-BF63-037E0F6A3FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF590767-0518-4696-BF63-037E0F6A3FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F372698-A9CD-441F-8BA2-BF81234B4B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F372698-A9CD-441F-8BA2-BF81234B4B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F372698-A9CD-441F-8BA2-BF81234B4B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F372698-A9CD-441F-8BA2-BF81234B4B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5E20C2-4535-49D6-8FB9-DDD496DB03DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5E20C2-4535-49D6-8FB9-DDD496DB03DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5E20C2-4535-49D6-8FB9-DDD496DB03DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5E20C2-4535-49D6-8FB9-DDD496DB03DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E797B92B-38FC-406D-9E52-ABABDD970ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E797B92B-38FC-406D-9E52-ABABDD970ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E797B92B-38FC-406D-9E52-ABABDD970ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E797B92B-38FC-406D-9E52-ABABDD970ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F61EF6-EDAA-4079-AF17-9E1D0D6B98AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F61EF6-EDAA-4079-AF17-9E1D0D6B98AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F61EF6-EDAA-4079-AF17-9E1D0D6B98AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F61EF6-EDAA-4079-AF17-9E1D0D6B98AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7D7D10-9CE8-4B66-A4B5-E997AD8AFC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7D7D10-9CE8-4B66-A4B5-E997AD8AFC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7D7D10-9CE8-4B66-A4B5-E997AD8AFC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7D7D10-9CE8-4B66-A4B5-E997AD8AFC1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89CFBF06-973A-4F4B-A37F-D0DA29575D43}
+	EndGlobalSection
+EndGlobal
